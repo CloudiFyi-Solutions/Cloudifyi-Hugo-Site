@@ -65,6 +65,9 @@ ignorefiles = [ "examples/.*" ]
     languageName = "English"
     landingPageName = "<i class='fas fa-home'></i> Home"
 
+  [Languages.en.params]
+    landingPageName = "<i class='fas fa-home'></i> Home"
+
   [[Languages.en.menu.shortcuts]]
     name = "<i class='fas fa-fw fa-tags'></i> Tags"
     url = "tags/"
@@ -73,7 +76,7 @@ ignorefiles = [ "examples/.*" ]
 [params]
   editURL = "https://github.com/cloudifyisolutions/Cloudifyi-Hugo-Site/"
   description = "Cloudifyi Solutions - Documentation"
-  author = "Cloudifyi Solutions Team"
+  author.name = "Cloudifyi Solutions Team"
   showVisitedLinks = true
   collapsibleMenu = true
   disableBreadcrumb = false
