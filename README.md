@@ -2,15 +2,6 @@
 
 This repository contains technical documentation for our project. The documentation is built using [Hugo](https://gohugo.io/), a static site generator.
 
-## Cloning the Repository
-
-To clone this repository, run the following command:
-
-```bash
-git clone https://github.com/Cloud-3-0-EMU/Data-Platform-Engineering-Docs
-```
-
-
 ## Editing the Documentation
 
 The documentation is located in the `/content` folder. To edit the documentation, follow these steps:

@@ -13,7 +13,7 @@
        --MAIN-LINK-HOVER-color: rgb(112, 174, 245); /* hovered link color of content */
        --MAIN-BG-color: rgba( 32, 32, 32, 1 ); /* background color of content */
        --MAIN-TEXT-color: rgba( 224, 224, 224, 1 ); /* text color of content and h1 titles */
-       --MAIN-font: FS Humana; 
+       --MAIN-font: FS cloudmania; 
        --MAIN-TITLES-TEXT-color: rgba( 255, 255, 255, 1 ); /* text color of h2-h6 titles and transparent box titles */
    
        /* adjusted to relearn-dark chroma style */
