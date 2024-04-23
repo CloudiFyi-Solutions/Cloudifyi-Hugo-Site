@@ -1,4 +1,4 @@
-# Data-Platform-Enginnering-Docs
+# Cloudifyi Solutions Docs
 
 This repository contains technical documentation for our project. The documentation is built using [Hugo](https://gohugo.io/), a static site generator.
 
