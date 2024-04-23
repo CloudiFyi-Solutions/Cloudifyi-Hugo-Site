@@ -1,4 +1,4 @@
-baseURL = "https://dataplatform-docs.az3-cfes-eastus2-npe-asev3.appserviceenvironment.net/"
+baseURL = "http://example.org/"
 canonifyURLs = true # true -> all relative URLs would instead be canonicalized using baseURL
 relativeURLs = true # true -> rewrite all relative URLs to be relative to the current content
 uglyURLs = true     # true -> basic/index.html -> basic.html
