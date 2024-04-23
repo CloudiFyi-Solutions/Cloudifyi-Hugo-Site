@@ -1,0 +1,14 @@
+repoMetaData:
+  version: 3.2
+  changeTemplateId: NA      
+  sonarqubeProjectKey: NA
+  serviceNowAssociatedRecords:
+    - type: ServiceOffering
+      id: BSN0002433      
+      description: This is my CI.
+      technology: NotSubjectToCodeScanning
+  glapiConfiguration:
+    github:
+      pullRequest:
+        mode: Integrated
+        createCO: false
