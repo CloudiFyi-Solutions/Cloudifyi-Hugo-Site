@@ -43,6 +43,9 @@ jobs:
         uses: actions/checkout@v4
         with:
           submodules: recursive
+      - name: Copy images to static
+        run: |
+          cp -vr images/* static/images/
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
